@@ -1,0 +1,10 @@
+===Names===
+keyboard
+threading
+subprocess
+time
+json
+os
+===ToInstall==
+pip install keyboard
+pip install json
